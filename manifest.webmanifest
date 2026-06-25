@@ -1,0 +1,16 @@
+{
+  "name": "Plasterdam",
+  "short_name": "Plasterdam",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbfcf7",
+  "theme_color": "#0f3b35",
+  "icons": [
+    {
+      "src": "./assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
